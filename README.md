@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/67cbe6ca-1124-4457-846d-9ee507513543
 
 ---
 
-# 🛠️ 6. Configuration
+#  6. Configuration
 
 ```php
 <?php
