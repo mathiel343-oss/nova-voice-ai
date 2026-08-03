@@ -14,7 +14,7 @@ The application supports both **Arabic** and **English** with instant runtime la
 
 ---
 
-# 🔊 2. Voice Pipeline
+#  2. Voice Pipeline
 
 ###  Speech-to-Text
 
